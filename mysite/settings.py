@@ -25,7 +25,7 @@ SECRET_KEY = '28+$$#o972!sicc5pnlazk0aq%5dadg=xadhzcqi8&oc)9voz&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'sophiegauthier.pythonanywhere.com']
 
 
 # Application definition
